@@ -60,3 +60,6 @@ artifacts:
     - segmentation
     - satellite-images
     - shufflenet_v2_x2_0
+  model:
+    path: models/model.pkl
+    type: model
